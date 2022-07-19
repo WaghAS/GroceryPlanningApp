@@ -1,0 +1,54 @@
+.a{
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(252, 109, 14);
+    cursor: pointer;
+    text-align: center;
+}
+
+.b{
+    color: rgb(5, 87, 32);
+    text-align: center;
+    font-size: 35px;
+}
+
+.table{
+    font-size: 32px;
+    margin-left: 485px;
+    margin-top: 150px;
+}
+
+.delete{
+    margin-left: 120px;
+}
+
+.c{
+    margin-left: 50px;
+}
+
+.e{
+    display: flexbox;
+    width: 60%;
+    font-size: 1.3rem;
+    margin: 10px 0;
+    padding: 3px 0;
+    margin: 1%;
+    background-color: rgb(79, 241, 241);
+    color: red;
+    border: 1px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.f{
+    position: relative;
+    width: 70%;
+    font-size: 1.3rem;
+    margin-right: auto;
+    padding: 3px 0;
+    background-color: rgb(79, 241, 241);
+    color: red;
+    border: 1px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
